@@ -1,13 +1,10 @@
 ## Hi there 👋 I'm Néstor
 
-![mona-whisper](https://github.com/user-attachments/assets/26e236b1-b164-42e7-b10a-25bce51b8cd5)
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/NestorManeiro/NestorManeiro/main/banne2r.png" alt="Banner" width="100%" />
 </p>
 
-### 💡 Software Engineer | .NET Developer | AI Enthusiast
+### 💡 Software Engineer | .NET Developer | AI Enthusiast ![mona-whisper](https://github.com/user-attachments/assets/26e236b1-b164-42e7-b10a-25bce51b8cd5)
 
 ---
 
