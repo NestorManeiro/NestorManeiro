@@ -1,8 +1,8 @@
+## Hi there 👋 I'm Néstor
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NestorManeiro/NestorManeiro/main/banner.png" alt="Banner" width="50%" />
 </p>
-
-## Hi there 👋 I'm Néstor
 
 ### 💡 Software Engineer | .NET Developer | AI Enthusiast
 
