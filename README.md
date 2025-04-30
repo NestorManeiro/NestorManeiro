@@ -7,9 +7,6 @@
 ### 💡 Software Engineer | .NET Developer | AI Enthusiast
 
 ---
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/26e236b1-b164-42e7-b10a-25bce51b8cd5" alt="mona-whisper" />
-</p>
 
 ### 🧑‍💻 About Me
 
@@ -70,3 +67,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestormaneiroperez/)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26e236b1-b164-42e7-b10a-25bce51b8cd5" alt="mona-whisper" />
+</p>
