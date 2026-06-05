@@ -1,59 +1,61 @@
-## Hi there 👋 I'm Néstor
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/NestorManeiro/NestorManeiro/main/banne2r.png" alt="Banner" width="100%" />
 </p>
 
-### 💡 Software Engineer | .NET Developer | AI Enthusiast
+<h2 align="center">Hey, I'm Néstor 👋</h2>
+<p align="center">
+  Backend Engineer · .NET Core · REST APIs · Systems Integration
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-🎯 I currently work as a **Software Engineer at Xelios Biometrics**, developing biometric solutions in **.NET**, building **REST APIs**, and handling **DevOps** and **systems integration** tasks.
+🔧 Backend engineer with 2+ years building production-grade **.NET Core APIs** and integrating **biometric SDKs** into eKYC and KYC/AML workflows for the banking sector.
 
-💻 My main focus is backend development. I hold a degree in **Computer Engineering**.
+🚀 I care about shipping things that actually work — clean APIs, automated testing, proper CI/CD, and code that doesn't fall apart under load.
 
-🚀 I love solving problems and learning new technologies. Recently, I’ve been working with **OpenCV** and **Tesseract**. While my core stack is in **.NET**, I also enjoy building tools and automations in **Python**.
+🌍 Open to **remote opportunities worldwide**.
 
-🤖 I'm highly interested in **Artificial Intelligence**, especially in areas like **AI-generated content detection and generation**.
-
-🌴 Originally from the **Canary Islands**, I'm always open to new projects and collaborations.
+🌴 Based in the Canary Islands, originally. Heading to **Tokyo** eventually.
 
 ---
 
-### 🧰 Main Technologies & Tools
+### 🔨 Main Stack
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-- .NET 8, .NET Framework 4.8, ASP.NET Core (Web API)
-- C#, Python, Java, C++
-- SQL Server, SQL Express
-- Design patterns, Entity Framework
-- Git, GitLab, SourceTree
-- Visual Studio, VS Code
-- REST API and Windows services development
-- Docker, Tesseract OCR, OpenCV
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🛠️ Currently Exploring
+### 🌟 Projects
 
-- LangChain, LLMs and Prompt Engineering
-- Real-time image processing with Python and C#
-- AI explainability and adversarial testing
+**🔒 [nihongo-n5](https://github.com/NestorManeiro/nihongo-n5)**
+Interactive Japanese N5 vocabulary study app — React + Vite, deployed on GitHub Pages.
+
+**📐 [TFG — Interactive Bézier Curve Editor](https://nestormaneiro.github.io/TFG/)**
+Geometric editor compiled to WebAssembly with C#/Blazor. Real-time curve manipulation in the browser. [[repo]](https://github.com/NestorManeiro/TFG)
+
+**🔍 [LogoClassifier](https://github.com/NestorManeiro/LogoClassifier)**
+CNN trained from scratch to classify logos into 15 categories — 93% accuracy, benchmarked against VGG16.
+
+**🛠 [SteamBlockerGUI](https://github.com/NestorManeiro/SteamBlockerGUI)**
+C# tool that manages Windows Firewall rules for Steam to allow two accounts to share a game simultaneously.
 
 ---
 
-### 🌟 Featured Personal Projects
+### 🚧 Currently building (private)
 
-- [Read-Metadata-and-check-warnings](https://github.com/NestorManeiro/Read-Metadata-and-check-warnings): .NET API for extracting and analyzing image metadata.
-- [TFG](https://github.com/NestorManeiro/TFG): My final degree project. Also available as a website: [TFG Web](https://nestormaneiro.github.io/TFG/)
-- [LogoClassifier](https://github.com/NestorManeiro/LogoClassifier): Neural network for logo classification.
+**NeruGO** — A gamified Japanese learning platform for Spanish speakers.
+Full-stack: React 18, Node.js, Supabase, Stripe, VOICEVOX TTS.
+Features: spaced repetition, original mini-games per lesson, streaks, leagues, and community forum.
+Launching around 2027. 🇯🇵
 
 ---
 
@@ -63,7 +65,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestormaneiroperez/)
 
