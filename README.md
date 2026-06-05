@@ -60,8 +60,8 @@ Launching around 2027. 🇯🇵
 ---
 
 ### 📊 GitHub Stats
-
 ![NestorManeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=NestorManeiro&show_icons=true&theme=radical)
+
 
 ---
 
