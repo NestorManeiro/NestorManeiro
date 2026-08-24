@@ -99,7 +99,7 @@ Designed to allow two Steam accounts to share a game simultaneously by controlli
 
 ---
 
-### 🖥️ [ClickVision](https://github.com/NestorManeiro/ClickVision)
+### 🖥️ [ImageClicker](https://github.com/NestorManeiro/ImageClicker)
 
 Lightweight **C#/.NET screen image detector** powered by OpenCV template matching.
 
