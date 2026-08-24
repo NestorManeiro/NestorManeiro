@@ -138,7 +138,7 @@ The project is currently **private and under active development**.
 
 `React 18` · `Node.js` · `Supabase` · `Stripe` · `VOICEVOX`
 
-### New Features
+**✨ Current Features**
 
 * 📚 Spaced repetition
 * 🎮 Original mini-games
@@ -147,7 +147,10 @@ The project is currently **private and under active development**.
 * 💬 Community forum
 * 🔊 Japanese TTS powered by VOICEVOX
 
+**🚀 Project Status**
+
 Currently, the project is mostly complete, with the remaining work focused on pre-launch systems such as integrating Stripe. All core functionality is already available, while the lessons are still being refined and expanded to provide higher-quality learning content.
+
 ---
 
 ## 📫 Connect
