@@ -20,11 +20,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Backend Engineer** focused on building reliable APIs, integrations, and production systems with **C# and .NET**.
+I'm a **Backend Engineer** focused on building reliable APIs, integrations, and production systems using **C# and .NET**.
 
 I have experience developing **.NET Core APIs** and integrating **biometric SDKs** into eKYC and KYC/AML workflows for the banking sector.
 
-I enjoy building software that is not only functional, but also **maintainable, testable, and reliable in production**.
+I enjoy building software that is not only functional, but also **maintainable, testable, scalable, and reliable in production**.
 
 * 🔧 Backend development with **C# / .NET**
 * 🔌 REST APIs & systems integration
@@ -56,54 +56,66 @@ I enjoy building software that is not only functional, but also **maintainable, 
 
 ### 🇯🇵 [nihongo-n5](https://github.com/NestorManeiro/nihongo-n5)
 
-Interactive **Japanese N5 vocabulary learning app** built with React and Vite.
+An early **prototype and visual mockup** of what would eventually become **NeruGO**.
 
-* 🎌 Japanese vocabulary practice
+This project was created as an initial proof of concept to showcase the idea, visual direction, and core concept behind the platform.
+
+Since then, NeruGO has evolved significantly. The current private version includes major improvements to the **UI/UX, architecture, database design, data models, functionality, and overall scope**.
+
+The full NeruGO project is currently private, so this repository remains available as a public snapshot of where the idea started.
+
+* 🎌 Japanese N5 vocabulary practice
 * ⚡ React + Vite
-* 🌐 Deployed with GitHub Pages
+* 🎨 Early UI/UX prototype
+* [🌐 Live Demo](https://nestormaneiro.github.io/nihongo-n5/)
+
+> A small glimpse into where NeruGO started — the current private project has evolved far beyond this early prototype. 🇯🇵
 
 ---
 
 ### 📐 [TFG — Interactive Bézier Curve Editor](https://github.com/NestorManeiro/TFG)
 
-Interactive geometric editor built as my final degree project.
+Interactive geometric editor developed as my **final-year degree project**.
 
-* C# / Blazor
-* WebAssembly
-* Real-time Bézier curve manipulation
+* 📐 Bézier curve manipulation
+* ⚡ C# / Blazor
+* 🌐 WebAssembly
+* 🎨 Interactive geometric editor
 * [🌐 Live Demo](https://nestormaneiro.github.io/TFG/)
 
 ---
 
 ### 🔍 [LogoClassifier](https://github.com/NestorManeiro/LogoClassifier)
 
-Computer vision project using a **CNN trained from scratch** to classify logos into 15 categories.
+Computer vision project using a **Convolutional Neural Network trained from scratch** to classify logos into 15 different categories.
 
 * 🧠 Convolutional Neural Network
 * 🎯 93% classification accuracy
-* 📊 Benchmarked against VGG16
+* 📊 Benchmark comparison against VGG16
 * 🐍 Python
 
 ---
 
 ### 🛠️ [SteamBlockerGUI](https://github.com/NestorManeiro/SteamBlockerGUI)
 
-Windows utility written in C# for managing **Windows Firewall rules**.
+A Windows utility written in **C#** for managing Windows Firewall rules.
 
-Designed to allow two Steam accounts to share a game simultaneously by controlling network access.
+The application allows two Steam accounts to share a game simultaneously by controlling network access through configurable firewall rules.
 
-* C#
-* Windows
-* Windows Firewall
-* Desktop GUI
+* 💻 C#
+* 🪟 Windows
+* 🔥 Windows Firewall
+* 🖥️ Desktop GUI
 
 ---
 
 ### 🖥️ [ImageClicker](https://github.com/NestorManeiro/ImageClicker)
 
-Lightweight **C#/.NET screen image detector** powered by OpenCV template matching.
+A lightweight **C#/.NET image detection and automation tool** built with OpenCV template matching.
 
-* 🔍 OpenCV image detection
+The application detects configured images on the screen and can perform configurable mouse clicks when a match is found.
+
+* 🔍 OpenCV template matching
 * 🖱️ Configurable mouse clicking
 * 🎯 Custom detection regions
 * ⏱️ Configurable scan and click delays
@@ -116,22 +128,26 @@ Lightweight **C#/.NET screen image detector** powered by OpenCV template matchin
 
 ### 🇯🇵 NeruGO
 
-A gamified Japanese learning platform designed specifically for **Spanish-speaking learners**.
+A **gamified Japanese learning platform designed for Spanish-speaking learners**.
+
+NeruGO combines language learning with game-like progression and interactive experiences to make studying Japanese more engaging and consistent.
+
+The project is currently **private and under active development**.
 
 **Stack:**
 
 `React 18` · `Node.js` · `Supabase` · `Stripe` · `VOICEVOX`
 
-Planned features include:
+### Planned Features
 
 * 📚 Spaced repetition
 * 🎮 Original mini-games
 * 🔥 Streaks & progression
-* 🏆 Leagues
+* 🏆 Leagues and competitive elements
 * 💬 Community forum
-* 🔊 Japanese TTS with VOICEVOX
+* 🔊 Japanese TTS powered by VOICEVOX
 
-**Target launch: 2027**
+**Target launch: 2027 🇯🇵**
 
 ---
 
