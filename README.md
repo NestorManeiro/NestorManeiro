@@ -151,15 +151,6 @@ The project is currently **private and under active development**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NestorManeiro&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorManeiro&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
-
 ## 📫 Connect
 
 <p>
@@ -168,6 +159,3 @@ The project is currently **private and under active development**.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/26e236b1-b164-42e7-b10a-25bce51b8cd5" alt="mona-whisper" />
-</p>
